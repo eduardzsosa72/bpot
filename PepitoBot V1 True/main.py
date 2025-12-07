@@ -16,7 +16,7 @@ class PepitoBot():
             "GOKUPELON",
             api_id=24648014,
             api_hash='3575a0f1524c2a08cc297fbd5355e318',
-            bot_token='7881423666:AAHP7bFM_fANene68KSKNj_HRYg_BmKWQdA',
+            bot_token='8454388731:AAF8GHffHrsaSB8uAy8WEZLhsHcPptAIDFk',
             plugins=dict(root="plugins")
         )
 
