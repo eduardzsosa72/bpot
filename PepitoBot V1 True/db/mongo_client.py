@@ -100,7 +100,7 @@ class MongoDB(object):
 
 
 def expulse_user():
-    client = pymongo.MongoClient("mongodb://mongo:arcQvTWofDHsKQAcnQLbAbqKCbMPKaVT@mongodb.railway.internal:27017/")
+    client = pymongo.MongoClient("mongodb://localhost:27017")
     db = client["bot"]
     collection = db["user"]
     collection1 = db["group"]
