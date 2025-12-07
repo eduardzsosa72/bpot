@@ -14,8 +14,8 @@ class PepitoBot():
     def __init__(self):
         self.app = Client(
             "GOKUPELON",
-            api_id=24648014,
-            api_hash='3575a0f1524c2a08cc297fbd5355e318',
+            api_id=32835018,
+            api_hash='10dc92dbf18c8abd345d2ee2a0d0f137',
             bot_token='8454388731:AAF8GHffHrsaSB8uAy8WEZLhsHcPptAIDFk',
             plugins=dict(root="plugins")
         )
